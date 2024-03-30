@@ -15,7 +15,7 @@ alt="coroa_red_jogadas"></a>
 
 - <a href="https://emoji.gg/emoji/8839-angry-peach"><img src="https://cdn3.emoji.gg/emojis/8839-angry-peach.gif" width="36px" height="40px" alt="angry_peach"></a> I’m looking to collaborate on IBM 👁️🐝Ⓜ️
   
-- <a href="https://emoji.gg/emoji/1177_Pensive_Weird"><img src="https://cdn3.emoji.gg/emojis/1177_Pensive_Weird.gif" width="36px" height="40px" alt="Pensive_Weird"></a>  Pronouns: He/his 🤨
+- <a href="https://emoji.gg/emoji/1177_Pensive_Weird"><img src="https://cdn3.emoji.gg/emojis/1177_Pensive_Weird.gif" width="36px" height="40px" alt="Pensive_Weird"></a>  Pronouns: He/him 🤨
 
 - <a href="https://emoji.gg/emoji/4735_Mushplode"><img src="https://cdn3.emoji.gg/emojis/4735_Mushplode.gif" width="40px" height="48px" alt="Mushplode"></a> Fun fact: I know a lot 👨🏼‍🏫🖐️🧠
 
