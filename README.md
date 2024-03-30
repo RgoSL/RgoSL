@@ -9,16 +9,16 @@ alt="coroa_red_jogadas"></a>
 
 ##
 
-- 👀 I’m interested in Code, code, code!
+- <a href="https://emoji.gg/emoji/4729_amongusspace"><img src="https://cdn3.emoji.gg/emojis/4729_amongusspace.gif" width="40px" height="48px" alt="amongusspace"></a> I’m interested in Code, code, code!
 
-- 🌱 I’m currently learning PHP & SQL, 💾 HTML & CSS, 💻 Java, ☕ Kotlin, 📲
- 
-- 💞️ I’m looking to collaborate on IBM 👁️🐝Ⓜ️
+- <a href="https://emoji.gg/emoji/1640-do-not-disturb"><img src="https://cdn3.emoji.gg/emojis/1640-do-not-disturb.gif" width="40px" height="48px" alt="Do_Not_Disturb"></a> I’m currently learning PHP & SQL, 💾 HTML & CSS, 💻 Java, ☕ Kotlin, 📲
 
-- 😄 Pronouns: He/his 🤨
- 
-- ⚡ Fun fact: I know a lot 👨🏼‍🏫🖐️🧠
- 
+- <a href="https://emoji.gg/emoji/8839-angry-peach"><img src="https://cdn3.emoji.gg/emojis/8839-angry-peach.gif" width="36px" height="40px" alt="angry_peach"></a> I’m looking to collaborate on IBM 👁️🐝Ⓜ️
+  
+- <a href="https://emoji.gg/emoji/1177_Pensive_Weird"><img src="https://cdn3.emoji.gg/emojis/1177_Pensive_Weird.gif" width="36px" height="40px" alt="Pensive_Weird"></a>  Pronouns: He/his 🤨
+
+- <a href="https://emoji.gg/emoji/4735_Mushplode"><img src="https://cdn3.emoji.gg/emojis/4735_Mushplode.gif" width="40px" height="48px" alt="Mushplode"></a> Fun fact: I know a lot 👨🏼‍🏫🖐️🧠
+
   ##
   
 <div align="center">
