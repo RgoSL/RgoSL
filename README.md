@@ -5,7 +5,7 @@
 alt="coroa_red_jogadas"></a> 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=922727&size=35&center=true&vCenter=true&width=1000&font=Satisfy&lines=Hey,+there!+😎+;+I´m+Learning+Systems+Development+🤖;Welcome!+🚪)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=922727&size=35&center=true&vCenter=true&width=1000&font=Satisfy&lines=Hey,+there!+😎+;+I´m+Learning+Systems+Development+🤖;Welcome!+to+my+GitHub+🚪)](https://git.io/typing-svg)
 
 ##
 
