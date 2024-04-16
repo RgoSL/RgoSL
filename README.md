@@ -1,3 +1,5 @@
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=922727&height=120&section=header"/>
 
 <div align="center">
@@ -36,6 +38,12 @@ alt="coroa_red_jogadas"></a>
 
 </div>
 
+<p align="center">
+    <a href="https://wakatime.com/@RgoSL">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=RgoSL&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Contribution" width="95%" alt="activity graph">
+    </a>
+</p>
+
 ##
 
 <div align="center">
@@ -56,3 +64,4 @@ alt="coroa_red_jogadas"></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=922727&height=120&section=footer"/>
             
+
