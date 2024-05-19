@@ -31,18 +31,12 @@ alt="coroa_red_jogadas"></a>
 
  ## 🧮 Statistics
  
-<div align="center">  
-  
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=RgoSL&layout=compact&hide_border=true&bg_color=0d1117&text_color=922727&title_color=922727" />
-  
-<img  src="https://github-readme-stats.vercel.app/api?username=RgoSL&count_private=true&show_icons=true&theme=none&rank_icon=github&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=922727" alt="readme stats" />
-
+<div align="center">
+    <img height="230em" src="https://github-readme-stats.vercel.app/api?username=RgoSL&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=34b1eb&title_color=34EBC9&text_color=ffffff"/>
+    <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RgoSL&theme=blue-green"/>
 </div>
-
 <p align="center">
-    <a href="https://wakatime.com/@RgoSL">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=RgoSL&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Contribution" width="95%" alt="activity graph">
-    </a>
+    
 </p>
 
 ## 🎓 Skills
@@ -64,5 +58,6 @@ alt="coroa_red_jogadas"></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=922727&height=120&section=footer"/>
-            
 
+
+      
