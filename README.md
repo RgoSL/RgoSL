@@ -34,7 +34,7 @@ alt="coroa_red_jogadas"></a>
   
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RgoSL&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=34b1eb&title_color=34EBC9&text_color=ffffff"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RgoSL&theme=blue-green"/>
+<img height = "165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RgoSL&theme=blue-green"/>
 
 </div>
 
