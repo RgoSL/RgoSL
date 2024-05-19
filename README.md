@@ -30,12 +30,11 @@ alt="coroa_red_jogadas"></a>
 
 
  ## 🧮 Statistics
-<div align="center">
+<div align="center">  
+ 
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RgoSL&layout=compact&hide_border=true&bg_color=0d1117&text_color=922727&title_color=922727" />
   
-<img height="230em" src="https://github-readme-stats.vercel.app/api?username=RgoSL&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=34b1eb&title_color=34EBC9&text_color=ffffff"/>
-
-<img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RgoSL&theme=blue-green"/>
-
+<img  src="https://github-readme-stats.vercel.app/api?username=RgoSL&count_private=true&show_icons=true&theme=none&rank_icon=github&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=922727" alt="readme stats" />
 </div>
 
 <p align="center">
