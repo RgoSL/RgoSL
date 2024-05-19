@@ -44,7 +44,7 @@ alt="coroa_red_jogadas"></a>
     </a>
 </p>
 
-##
+## 🎓 Skills
 
 <div align="center">
 
