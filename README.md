@@ -19,7 +19,7 @@ alt="coroa_red_jogadas"></a>
   
 - <a href="https://emoji.gg/emoji/1177_Pensive_Weird"><img src="https://cdn3.emoji.gg/emojis/1177_Pensive_Weird.gif" width="36px" height="40px" alt="Pensive_Weird"></a>  Pronouns: He/him 🤨
 
-- <a href="https://emoji.gg/emoji/4735_Mushplode"><img src="https://cdn3.emoji.gg/emojis/4735_Mushplode.gif" width="40px" height="48px" alt="Mushplode"></a> Fun fact: I know a lot 🖐️🧠
+- <a href="https://emoji.gg/emoji/4735_Mushplode"><img src="https://cdn3.emoji.gg/emojis/4735_Mushplode.gif" width="40px" height="48px" alt="Mushplode"></a> Fun fact: I am a big fan of Paulo Coelho ❤️🐰📕
 
   ##
   
