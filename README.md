@@ -1,63 +1,92 @@
 
-
+  <!-- FOOTER DE ONDA EDITÁVEL ⬇️ -->
+  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=922727&height=120&section=header"/>
 
+
+  <!-- GIT DA COROA & TEXTO QUE SURGE EDITÁVEL ⬇️ -->
+  
 <div align="center">
 <img height="40"> <a href="https://emoji.gg/emoji/5391-coroa-red-jogadas"><img src="https://cdn3.emoji.gg/emojis/5391-coroa-red-jogadas.gif" width="64px" height="64px"
 alt="coroa_red_jogadas"></a> 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=922727&size=35&center=true&vCenter=true&width=1000&font=Satisfy&lines=Hey,+there!+😎+;+I´m+Learning+Systems+Development+🤖;Welcome!+to+my+GitHub+🚪)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=922727&size=35&center=true&vCenter=true&width=1000&font=Satisfy&lines=Hey,+there!+😎+;+I´m+Learning+Systems+Development+🤖;Welcome!+to+my+GitHub+🚪)](https://git.io/typing-svg) 
 
-##
+<br>
 
-- <a href="https://emoji.gg/emoji/4729_amongusspace"><img src="https://cdn3.emoji.gg/emojis/4729_amongusspace.gif" width="40px" height="48px" alt="amongusspace"></a> I’m interested in Code, code, code!
 
-- <a href="https://emoji.gg/emoji/1640-do-not-disturb"><img src="https://cdn3.emoji.gg/emojis/1640-do-not-disturb.gif" width="40px" height="48px" alt="Do_Not_Disturb"></a> I’m currently learning PHP & SQL, 💾 HTML & CSS, 💻 Java, ☕ Kotlin, 📲
-
-- <a href="https://emoji.gg/emoji/8839-angry-peach"><img src="https://cdn3.emoji.gg/emojis/8839-angry-peach.gif" width="36px" height="40px" alt="angry_peach"></a> I’m looking to collaborate on IBM 👁️🐝Ⓜ️
+  <!-- SESSÃO DAS TECNOLOGIAS E CONHECIMENTO ⬇️ -->
   
-- <a href="https://emoji.gg/emoji/1177_Pensive_Weird"><img src="https://cdn3.emoji.gg/emojis/1177_Pensive_Weird.gif" width="36px" height="40px" alt="Pensive_Weird"></a>  Pronouns: He/him 🤨
+<h1>🎓 Skills </h1>
 
-- <a href="https://emoji.gg/emoji/4735_Mushplode"><img src="https://cdn3.emoji.gg/emojis/4735_Mushplode.gif" width="40px" height="48px" alt="Mushplode"></a> Fun fact: I am a big fan of Paulo Coelho ❤️🐰📕
+<div align="center">
+  
+</div>
 
-  ##
+<h2> 👀 Front End  -   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,java,kotlin" align="center" /> </h2>
+<br>
+
+<h2> 📊 Back End  -   <img src="https://skillicons.dev/icons?i=php,mysql,sqlite,laravel,python,firebase,c#" align="center" /> </h2>
+<br>
+
+<h2> 🛠️ Tools  -   <img src="https://skillicons.dev/icons?i=figma,arduino,git,github,androidstudio,vscode,linux" align="center" /> </h2>
+
+
+  <!-- SESSÃO DOS PROJETOS ⬇️ -->
+
+  <br>
+  <br>
+
+<h1 align="center">🗂️ My Projects </h1>
+<p align="center">
+    <a href="https://github.com/RgoSL/Codigo-Penadinho-Projeto-Sistemas-Embarcados"> <!-- ⬅️ LINK PARA ENCAMINHAR PARA O REPOSITÓRIO -->
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RgoSL&repo=Codigo-Penadinho-Projeto-Sistemas-Embarcados&theme=dark&title_color=922727&icon_color=922727&text_color=ffffff&bg_color=000000" /> <!-- ⬅️ INFORMAÇÕES DO CARD -->
+    </a>
+    <a href="https://github.com/RgoSL/HighEcology_MobileVersion">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RgoSL&repo=HighEcology_MobileVersion&theme=dark&title_color=922727&icon_color=922727&text_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/RgoSL/High_Ecology">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RgoSL&repo=High_Ecology&theme=dark&title_color=922727&icon_color=922727&text_color=ffffff&bg_color=000000" />
+    </a>
+    <a href="https://github.com/RgoSL/Projeto-Interdisciplinar--BD-DS">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RgoSL&repo=Projeto-Interdisciplinar--BD-DS&theme=dark&title_color=922727&icon_color=922727&text_color=ffffff&bg_color=000000" />
+    </a>
+</p>
+
+
+  <!-- SESSÃO DAS INFORMAÇÕES DO PERFIL ⬇️ -->
+
+ <br>
+ <br>
+
+
+ <h1 align = "center">🧮 Statistics</h1>
+<div align="center">
+
+
+  <!-- CARDS DE LINGUAGENS E CONTRIBUIÇÕES ⬇️ -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=RgoSL&show_icons=true&theme=dark&title_color=922727&icon_color=922727&text_color=ffffff&bg_color=000000" alt="RgoSL GitHub Stats" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RgoSL&layout=compact&theme=dark&title_color=922727&icon_color=922727&text_color=ffffff&bg_color=000000" alt="RgoSL Most Used Languages" />
+  </div>
+
+  <!-- CARD COM A STREAK ⬇️ -->
+  <br />
+  <img src="https://streak-stats.demolab.com?user=RgoSL&theme=dark&ring=922727&fire=922727&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&background=000000" alt="RgoSL GitHub Streak" />
+
+</div>
+
+
+  <!-- GIF DO AGENTE URSO ⬇️ -->
   
 <div align="center">
  <a href="https://emoji.gg/emoji/9830-ep1-act1-tactibear"><img src="https://cdn3.emoji.gg/emojis/9830-ep1-act1-tactibear.gif" width="190px" height="205px"></a> 
 </div>
+  </div>
 
 
-
- ## 🧮 Statistics
- 
-<div align="center">
-    <img height="230em" src="https://github-readme-stats.vercel.app/api?username=RgoSL&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=34b1eb&title_color=34EBC9&text_color=ffffff"/>
-    <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RgoSL&theme=blue-green"/>
-</div>
-<p align="center">
-    
-</p>
-
-## 🎓 Skills
-
-<div align="center">
-
- <img width = "100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
- <img width = "110" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a> 
- <img width = "120" src= "https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" target ="_blank"></a>
- <img width = "140" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank"></a> 
- 
- <br>
- 
- <img width = "200" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"></a> 
- <img width = "170" src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target ="_blank"></a>
- <img width = "100" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" target="_blank"></a> 
-
-  
-</div>
+  <!-- FOOTER DE ONDA EDITÁVEL ⬇️ -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=922727&height=120&section=footer"/>
-
-
-      
+  
