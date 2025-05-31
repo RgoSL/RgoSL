@@ -1,17 +1,16 @@
 
-  <!-- FOOTER DE ONDA EDITÁVEL ⬇️ -->
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=922727&height=120&section=header"/>
-
-
-  <!-- GIT DA COROA & TEXTO QUE SURGE EDITÁVEL ⬇️ -->
+  <!-- BANNER DO PERFIL ⬇️ -->
   
 <div align="center">
-<img height="40"> <a href="https://emoji.gg/emoji/5391-coroa-red-jogadas"><img src="https://cdn3.emoji.gg/emojis/5391-coroa-red-jogadas.gif" width="64px" height="64px"
-alt="coroa_red_jogadas"></a> 
+  
+  <img width="1000" src="https://github.com/RgoSL/RgoSL/blob/main/ImgReadme/Banner%20Github.png">
+
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=922727&size=35&center=true&vCenter=true&width=1000&font=Satisfy&lines=Hey,+there!+😎+;+I´m+Learning+Systems+Development+🤖;Welcome!+to+my+GitHub+🚪)](https://git.io/typing-svg) 
+<br>
+<!-- TEXTO SENDO DIGITADO ⬇️ -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=922727&size=35&center=true&vCenter=true&width=1000&font=Satisfy&lines=Hello,+everyone+!++;+I´m+Learning+Systems+Development+;Welcome+to+my+GitHub+!)](https://git.io/typing-svg) 
 
 <br>
 
