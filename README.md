@@ -29,7 +29,7 @@
 <h2> 📊 Back End  -   <img src="https://skillicons.dev/icons?i=php,mysql,sqlite,laravel,python,firebase,c#" align="center" /> </h2>
 <br>
 
-<h2> 🛠️ Tools  -   <img src="https://skillicons.dev/icons?i=figma,arduino,git,github,androidstudio,vscode,linux" align="center" /> </h2>
+<h2> 🛠️ Tools  -   <img src="https://skillicons.dev/icons?i=figma,arduino,git,github,androidstudio,vscode,linux,docker" align="center" /> </h2>
 
 
   <!-- SESSÃO DOS PROJETOS ⬇️ -->
