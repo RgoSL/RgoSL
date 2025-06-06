@@ -3,7 +3,7 @@
   
 <div align="center">
   
-  <img width="1000" height="500" src="https://github.com/RgoSL/RgoSL/blob/main/ImgReadme/Banner%20Github.png">
+  <img width="1000" height="500" src="https://github.com/RgoSL/RgoSL/blob/main/ImgReadme/Banner%20Github.jpg">
 
 </div>
 
