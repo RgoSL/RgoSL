@@ -1,5 +1,4 @@
-
-  <!-- BANNER DO PERFIL ⬇️ -->
+ <!-- BANNER DO PERFIL ⬇️ -->
   
 <div align="center">
   
@@ -8,30 +7,56 @@
 </div>
 
 <br>
+
 <!-- TEXTO SENDO DIGITADO ⬇️ -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=922727&size=35&center=true&vCenter=true&width=1000&font=Lato&lines=Hello,+everyone+!++;+I´m+Learning+Systems+Development+;Welcome+to+my+GitHub+!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=922727&size=35&center=true&vCenter=true&width=1000&font=Spectral&lines=Hello,+everyone+!++;+I´m+Learning+Systems+Development+;Welcome+to+my+GitHub+!)](https://git.io/typing-svg)
 
 <br>
-
 
   <!-- SESSÃO DAS TECNOLOGIAS E CONHECIMENTO ⬇️ -->
   
 <h1>🎓 Skills </h1>
 
-<div align="center">
+> ✨ Front-end :
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap" align="center" />
+<img src="https://skillicons.dev/icons?i=react,tailwindcss" align="center" />
+<img src="https://skillicons.dev/icons?i=kotlin,java" align="center" />
+<br>
+
+> 📊 Back-end :
+
+<img src="https://skillicons.dev/icons?i=php,laravel" align="center" />
+<img src="https://skillicons.dev/icons?i=python,c#" align="center" />
+<br>
+
+> 🗄️ Databases :
+
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,firebase" align="center" />
+
+<br>
+
+> ⚒️ Tools :
+
+<img src="https://skillicons.dev/icons?i=vscode,arduino,androidstudio" align="center" />
+<img src="https://skillicons.dev/icons?i=git,github,docker" align="center" />
+<img src="https://skillicons.dev/icons?i=figma,linux" align="center" />
+<br>
+
+> 📞 Contact :
+
+   <a href="https://www.linkedin.com/in/limarodrigo-">
+   <img src="https://skillicons.dev/icons?i=linkedin" align="center" />
+  </a>
   
-</div>
-
-<h2> 👀 Front End  -   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,java,kotlin" align="center" /> </h2>
 <br>
-
-<h2> 📊 Back End  -   <img src="https://skillicons.dev/icons?i=php,mysql,sqlite,laravel,python,firebase,c#" align="center" /> </h2>
 <br>
-
-<h2> 🛠️ Tools  -   <img src="https://skillicons.dev/icons?i=figma,arduino,git,github,androidstudio,vscode,linux,docker" align="center" /> </h2>
-
+   <a href="mailto:rodrigo.limas1508@gmail.com">
+   <img src="https://skillicons.dev/icons?i=gmail" align="center" />
+  </a>
+<br>
+<hr>
 
   <!-- SESSÃO DOS PROJETOS ⬇️ -->
 
@@ -54,12 +79,10 @@
     </a>
 </p>
 
-
   <!-- SESSÃO DAS INFORMAÇÕES DO PERFIL ⬇️ -->
 
  <br>
  <br>
-
 
  <h1 align = "center">🧮 Statistics</h1>
 <div align="center">
@@ -77,7 +100,6 @@
 
 </div>
 
-
   <!-- GIF DO AGENTE URSO ⬇️ -->
   
 <div align="center">
@@ -85,8 +107,6 @@
 </div>
   </div>
 
-
   <!-- FOOTER DE ONDA EDITÁVEL ⬇️ -->
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=922727&height=120&section=footer"/>
-  
