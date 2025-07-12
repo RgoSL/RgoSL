@@ -41,7 +41,7 @@
 
 <img src="https://skillicons.dev/icons?i=vscode,arduino,androidstudio" align="center" />
 <img src="https://skillicons.dev/icons?i=git,github,docker" align="center" />
-<img src="https://skillicons.dev/icons?i=figma,linux" align="center" />
+<img src="https://skillicons.dev/icons?i=figma,linux,ubuntu" align="center" />
 <br>
 
 > 📞 Contact :
