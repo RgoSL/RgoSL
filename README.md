@@ -28,7 +28,7 @@
 > 📊 Back-end :
 
 <img src="https://skillicons.dev/icons?i=php,laravel" align="center" />
-<img src="https://skillicons.dev/icons?i=python,c#" align="center" />
+<img src="https://skillicons.dev/icons?i=python,cpp" align="center" />
 <br>
 
 > 🗄️ Databases :
@@ -66,16 +66,16 @@
 <h1 align="center">🗂️ My Projects </h1>
 <p align="center">
     <a href="https://github.com/RgoSL/Codigo-Penadinho-Projeto-Sistemas-Embarcados"> <!-- ⬅️ LINK PARA ENCAMINHAR PARA O REPOSITÓRIO -->
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RgoSL&repo=Codigo-Penadinho-Projeto-Sistemas-Embarcados&theme=dark&title_color=922727&icon_color=922727&text_color=ffffff&bg_color=000000" /> <!-- ⬅️ INFORMAÇÕES DO CARD -->
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RgoSL&repo=Codigo-Penadinho-Projeto-Sistemas-Embarcados&hide_border=true&theme=dark&title_color=922727&icon_color=922727&text_color=ffffff&bg_color=000000" /> <!-- ⬅️ INFORMAÇÕES DO CARD -->
     </a>
     <a href="https://github.com/RgoSL/HighEcology_MobileVersion">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RgoSL&repo=HighEcology_MobileVersion&theme=dark&title_color=922727&icon_color=922727&text_color=ffffff&bg_color=000000" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RgoSL&repo=HighEcology_MobileVersion&theme=dark&hide_border=true&title_color=922727&icon_color=922727&text_color=ffffff&bg_color=000000" />
     </a>
     <a href="https://github.com/RgoSL/High_Ecology">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RgoSL&repo=High_Ecology&theme=dark&title_color=922727&icon_color=922727&text_color=ffffff&bg_color=000000" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RgoSL&repo=High_Ecology&theme=dark&hide_border=true&title_color=922727&icon_color=922727&text_color=ffffff&bg_color=000000" />
     </a>
     <a href="https://github.com/RgoSL/Projeto-Interdisciplinar--BD-DS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RgoSL&repo=Projeto-Interdisciplinar--BD-DS&theme=dark&title_color=922727&icon_color=922727&text_color=ffffff&bg_color=000000" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RgoSL&repo=Projeto-Interdisciplinar--BD-DS&hide_border=true&theme=dark&title_color=922727&icon_color=922727&text_color=ffffff&bg_color=000000" />
     </a>
 </p>
 
@@ -85,19 +85,13 @@
  <br>
 
  <h1 align = "center">🧮 Statistics</h1>
-<div align="center">
-
-
-  <!-- CARDS DE LINGUAGENS E CONTRIBUIÇÕES ⬇️ -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RgoSL&show_icons=true&theme=dark&title_color=922727&icon_color=922727&text_color=ffffff&bg_color=000000" alt="RgoSL GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RgoSL&layout=compact&theme=dark&title_color=922727&icon_color=922727&text_color=ffffff&bg_color=000000" alt="RgoSL Most Used Languages" />
+<div align="center"> 
+ 
+  <!-- CONTRIBUIÇÕES & STREAK ⬇️ -->
+  <div style = "display: flex; justify-content: center; flex-wrap: wrap; gap: 5px;">
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=RgoSL&show_icons=true&hide_border=true&theme=dark&title_color=922727&icon_color=922727&text_color=ffffff&bg_color=000000" alt="RgoSL GitHub Stats" />
+     <img src="https://streak-stats.demolab.com?user=RgoSL&theme=dark&hide_border=true&ring=922727&fire=922727&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&background=000000" alt="RgoSL GitHub Streak" />
   </div>
-
-  <!-- CARD COM A STREAK ⬇️ -->
-  <br />
-  <img src="https://streak-stats.demolab.com?user=RgoSL&theme=dark&ring=922727&fire=922727&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&background=000000" alt="RgoSL GitHub Streak" />
-
 </div>
 
   <!-- GIF DO AGENTE URSO ⬇️ -->
