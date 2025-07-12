@@ -44,7 +44,7 @@
 <img src="https://skillicons.dev/icons?i=figma,linux,ubuntu" align="center" />
 <br>
 
-> 📞 Contact :
+> 📞 Social :
 
    <a href="https://www.linkedin.com/in/limarodrigo-">
    <img src="https://skillicons.dev/icons?i=linkedin" align="center" />
@@ -56,6 +56,12 @@
    <img src="https://skillicons.dev/icons?i=gmail" align="center" />
   </a>
 <br>
+<br>
+   <a href="https://g.dev/RDOLima">
+   <img src="https://skillicons.dev/icons?i=gcp" align="center" />
+  </a>
+  
+  <br>
 <hr>
 
   <!-- SESSÃO DOS PROJETOS ⬇️ -->
@@ -84,7 +90,7 @@
  <br>
  <br>
 
- <h1 align = "center">🧮 Statistics</h1>
+ <h1 align = "center">📊 Statistics</h1>
 <div align="center"> 
  
   <!-- CONTRIBUIÇÕES & STREAK ⬇️ -->
