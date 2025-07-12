@@ -89,7 +89,7 @@
  
   <!-- CONTRIBUIÇÕES & STREAK ⬇️ -->
   <div style = "display: flex; justify-content: center; flex-wrap: wrap; gap: 5px;">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=RgoSL&show_icons=true&hide_border=true&theme=dark&title_color=922727&icon_color=922727&text_color=ffffff&bg_color=000000" alt="RgoSL GitHub Stats" />
+    <img height="175px" src="https://github-readme-stats.vercel.app/api?username=RgoSL&show_icons=true&hide_border=true&theme=dark&title_color=922727&icon_color=922727&text_color=ffffff&bg_color=000000" alt="RgoSL GitHub Stats" />
      <img src="https://streak-stats.demolab.com?user=RgoSL&theme=dark&hide_border=true&ring=922727&fire=922727&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff&background=000000" alt="RgoSL GitHub Streak" />
   </div>
 </div>
